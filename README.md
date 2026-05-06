@@ -1,1 +1,1 @@
-Version modifiée en local
+Version finale après résolution du conflit
